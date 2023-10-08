@@ -22,3 +22,16 @@ https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/template/portainer-
 
 ___
 
+### My own-Big List
+https://raw.githubusercontent.com/Mesrine88/Portainer/main/BigTemplates.json
+
+
+___
+
+
+## Company-Logo
+
+***
+![HomeLab Inc.](image.png)
+***
+
